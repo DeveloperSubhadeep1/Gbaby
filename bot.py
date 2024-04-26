@@ -8,7 +8,7 @@ TOKEN = os.environ.get("TOKEN", "7103264571:AAHQABT_b98LJ_tklhwsTLSaPU6OibhTocE"
 
 API_ID = int(os.environ.get("API_ID", "27972068"))
 
-API_HASH = os.environ.get("API_HASH", "6e7e2f5cdddba536b8e603b3155223c1"")
+API_HASH = os.environ.get("API_HASH", "6e7e2f5cdddba536b8e603b3155223c1")
 
 STRING = os.environ.get("STRING", "")
 
